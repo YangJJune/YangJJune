@@ -1,25 +1,28 @@
 ## Hi there 👋
 
-### Skill
+## Skill
+### FrameWork
+React.ts React.js Android(xml) Flask
+
 **Languages**
-React Typescript Javascript Python Kotlin Java 
+Typescript Javascript Python Kotlin Java
 
 **API / Library**
-Livekit YouTubeAPI 
+Livekit YouTubeAPI Retrofit Axios 
 
 **Development**
-Git Github 
+Git Github Firebase Realtime Database Firestore Firebase Cloud Message EC2 
 
 **cooperation**
 Figma Notion Discord Slack Teams
 
-### Prize
+## Prize
 2024.08 KUIT Demoday 1st prize
 2024.06 wrtn technologies 4rd prize 
-### Education
+## Education
 2024.03 ~ 2024.08 Konkuk Univ. KUIT 3rd PM 
 
-### Experience
+## Experience
 
 <!--
 **YangJJune/YangJJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
