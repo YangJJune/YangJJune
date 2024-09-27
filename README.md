@@ -20,7 +20,7 @@ Figma Notion Discord Slack Teams
 2024.03 ~ 2024.08 Konkuk Univ. KUIT 3rd PM 
 
 ### Experience
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangJJune)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YangJJune/YangJJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
