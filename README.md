@@ -66,13 +66,7 @@
 
   **- 팀 프로젝트 ‘인공지능을 이용한 자동 원단 검사’ PM, FE 담당**
 
-  **- 개인 프로젝트 ‘CW Clan App’ 제작 1인 개발**
 
-  **- 개인 프로젝트 ‘CW-CLAN-Ladder Event’ 제작 1인 개발**
-
-## 2021 ~ 2022
-
-  **- 제 25 보병사단 무선전송장비 운용병 복무, 병장 만기전역**
 <!--
 **YangJJune/YangJJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
