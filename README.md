@@ -68,13 +68,11 @@
 
 ### 2023
 
-  **- 팀 프로젝트 ‘Koogle Maps’ PM, FE 담당**
-
-  **- 팀 프로젝트 ‘MCheaps’, FE 담당**
-
   **- 팀 프로젝트 ‘인공지능을 이용한 자동 원단 검사’ PM, FE 담당**
 
-
+  **- 팀 프로젝트 ‘Koogle Maps’ PM, FE 담당**
+  
+  **- 팀 프로젝트 ‘MCheaps’, FE 담당**
 ## Experience
 
  [건국대학교 학생들이 전하는 대학교 축제의 모든 것! 유니페스 개발팀 인터뷰](https://blog.naver.com/dreamkonkuk/223475025767)
