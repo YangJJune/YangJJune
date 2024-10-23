@@ -38,19 +38,27 @@
 
 
 ## Prize
+
 2024.08 KUIT Demoday 1st prize
+
 2024.06 wrtn technologies 4rd prize 
+
 ## Education
-2024.03 ~ 2024.08 Konkuk Univ. KUIT 3rd PM 
 
-## Experience
-# Career
+**9roomthonUNIV FrontEnd** (2024.09 ~ )
 
-## 2024
+**KUIT 3rd PM** (2024.03 ~ 2024.08 )
+
+**Konkuk Univ. Computer Science and Engineering** (2019.03 ~ )
+ 
+
+## Career
+
+### 2024
 
   **- 졸업 프로젝트 ‘필기체 PDF 문서 변환’ PM, FE 담당**
 
-  **- 팀 프로젝트 ‘스페이스(Space)’ PM, FE 담당, KUIT 데모데이 최우수상 수상**
+  **[- 팀 프로젝트 ‘스페이스(Space)’ PM, FE 담당, KUIT 데모데이 최우수상 수상](https://kuit-space.github.io/KUIT-Space-front/)**
 
   **- 팀 프로젝트 ‘유니페스(Uni-Fest)’ PM, FE 담당**
 
@@ -58,7 +66,7 @@
 
   **- 뤼튼 아이디어톤 ‘학습자료 기반 자동 문제 생성 에듀테크 서비스’ 장려상**
 
-## 2023
+### 2023
 
   **- 팀 프로젝트 ‘Koogle Maps’ PM, FE 담당**
 
@@ -66,6 +74,13 @@
 
   **- 팀 프로젝트 ‘인공지능을 이용한 자동 원단 검사’ PM, FE 담당**
 
+
+## Experience
+
+ [건국대학교 학생들이 전하는 대학교 축제의 모든 것! 유니페스 개발팀 인터뷰](https://blog.naver.com/dreamkonkuk/223475025767)
+ 
+ [KUIT 3기 데모데이 최우수상 스페이스 시연 발표](https://youtu.be/prHCa-w5_mQ)
+ 
 
 <!--
 **YangJJune/YangJJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
