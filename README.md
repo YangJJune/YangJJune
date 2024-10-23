@@ -2,7 +2,7 @@
 
 ## Skill
 ### FrameWork
-React.ts React.js Android(xml) Flask
+React Android
 
 **Languages**
 Typescript Javascript Python Kotlin Java
@@ -11,10 +11,16 @@ Typescript Javascript Python Kotlin Java
 Livekit YouTubeAPI Retrofit Axios 
 
 **Development**
-Git Github Firebase Realtime Database Firestore Firebase Cloud Message EC2 
+Git Github Firebase Realtime Database Firestore Firebase Cloud Message ![Static Badge](https://img.shields.io/badge/Firebase_Cloud_Message-%23DD2C00?style=flat&logo=firebase&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/EC2-%23FF9900?style=flat&logo=amazonec2&logoColor=ffffff)
+
 
 **cooperation**
-Figma Notion Discord Slack Teams
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Teams-%234B69B6?style=flat&logo=teans&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=flat&logo=discord&logoColor=ffffff)
+
 
 ## Prize
 2024.08 KUIT Demoday 1st prize
