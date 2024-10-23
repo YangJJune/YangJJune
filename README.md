@@ -2,10 +2,16 @@
 
 ## Skill
 ### FrameWork
-React Android
+
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=%23ffffff)
 
 **Languages**
-Typescript Javascript Python Kotlin Java
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Java-%23FF7800?logo=java&logoColor=%23fffff)
 
 **API / Library**
 ![Static Badge](https://img.shields.io/badge/styled_components-%23DB7093?logo=styledcomponents&logoColor=%23ffffff)
