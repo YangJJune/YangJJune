@@ -37,12 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=flat&logo=discord&logoColor=ffffff)
 
 
-## Prize
-
-2024.08 KUIT Demoday 1st prize
-
-2024.06 wrtn technologies 4rd prize 
-
 ## Education
 
 **9roomthonUNIV FrontEnd** (2024.09 ~ )
