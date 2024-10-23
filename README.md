@@ -8,10 +8,19 @@ React Android
 Typescript Javascript Python Kotlin Java
 
 **API / Library**
-Livekit YouTubeAPI Retrofit Axios 
+![Static Badge](https://img.shields.io/badge/styled_components-%23DB7093?logo=styledcomponents&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=styledcomponents&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Livekit-%23FF371A?logo=daga&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/YouTube_API-%23FF0000?logo=youtube&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?logo=axios&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Naver_Map_API-%2303C75A?logo=naver&logoColor=%23ffffff)
+
+
 
 **Development**
-Git Github Firebase Realtime Database Firestore Firebase Cloud Message ![Static Badge](https://img.shields.io/badge/Firebase_Cloud_Message-%23DD2C00?style=flat&logo=firebase&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Firebase_Cloud_Message-%23DD2C00?style=flat&logo=firebase&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/EC2-%23FF9900?style=flat&logo=amazonec2&logoColor=ffffff)
 
 
