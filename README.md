@@ -14,7 +14,7 @@
 **API / Library**
 ![Static Badge](https://img.shields.io/badge/styled_components-%23DB7093?logo=styledcomponents&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=styledcomponents&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/React_Query-%230088CC?logo=reactquery&logoColor=%23FF4154)
+![Static Badge](https://img.shields.io/badge/React_Query-%23ffffff?logo=reactquery&logoColor=%23FF4154)
 ![Static Badge](https://img.shields.io/badge/Livekit-%23FF371A?logo=daga&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/YouTube_API-%23FF0000?logo=youtube&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?logo=axios&logoColor=%23ffffff)
