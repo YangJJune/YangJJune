@@ -14,10 +14,11 @@
 **API / Library**
 ![Static Badge](https://img.shields.io/badge/styled_components-%23DB7093?logo=styledcomponents&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=styledcomponents&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/React_Query-%23ffffff?logo=reactquery&logoColor=%23FF4154)
+![Static Badge](https://img.shields.io/badge/React_Query-%23FF4154?logo=reactquery&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Livekit-%23FF371A?logo=daga&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/YouTube_API-%23FF0000?logo=youtube&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?logo=axios&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/ky-%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Naver_Map_API-%2303C75A?logo=naver&logoColor=%23ffffff)
 
 
