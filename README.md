@@ -4,8 +4,6 @@
 
 ### PM + Developer | End-to-End Project Owner
 
-*"다채로운 경험은 학생때나 할 수 있겠지"*
-
 [![Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ysj7191/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suk-joon-yang-19a039320/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ysj7191@naver.com)
