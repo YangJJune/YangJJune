@@ -41,7 +41,7 @@
 - 1년 6개월간 **20명 규모의 팀**을 PM으로 운영
 - **특허 가출원**: "축제정보 제공시스템 및 방법" (10-2025-0009911)
 
-**Tech Stack**: `Spring Boot` `React` `Next.js` `AWS (EC2, ELB, RDS, ElastiCache)` `Docker` `Jenkins` `Redis` `MySQL`
+**Tech Stack**: `Spring Boot` `React` `FAST API` `AWS (EC2, ELB, RDS, ElastiCache)` `Docker` `Jenkins` `Redis` `MySQL`
 
 ---
 
