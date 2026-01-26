@@ -2,7 +2,7 @@
 
 # 양석준 (Yang Suk-Joon)
 
-### PM + Developer | End-to-End Project Owner
+### Full-Stack Developer | PM | End-to-End Product Engineer
 
 [![Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ysj7191/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suk-joon-yang-19a039320/)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-> **유저를 최우선으로 고려하면서도 개발자와의 소통에 통역이 필요 없는 PM입니다**
+> **유저를 최우선으로 고려하면서도 기획자와의 소통에 통역이 필요 없는 개발자입니다**
 
 - 기획, 영업/마케팅, 개발까지 프로젝트 전체의 **End-to-End**를 완수할 수 있습니다
 - 자신의 한계를 생각하지 않고 **문제 해결에 집중**하여 성과를 냅니다
